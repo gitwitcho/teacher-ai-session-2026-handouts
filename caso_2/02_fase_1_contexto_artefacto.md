@@ -8,14 +8,14 @@ Primero aclara qué contenido cuesta, por qué cuesta y qué tipo de ayuda pedag
 
 Trabaja en cuatro pasos.
 
-Paso 1. Extrae el núcleo provisional
+## Paso 1. Extrae el núcleo provisional
 Indica brevemente:
 - cuál parece ser el contenido o tema difícil
 - qué aspecto parece costar más al alumnado
 - qué parece querer conseguir la persona docente con el artefacto
 - qué partes del planteamiento siguen siendo demasiado amplias, ambiguas o poco concretas
 
-Paso 2. Haz una entrevista pedagógica estructurada
+## Paso 2. Haz una entrevista pedagógica estructurada
 Hazle a la persona docente una entrevista, una pregunta a la vez, esperando a la respuesta después de cada pregunta.
 
 Haz un total de 4 a 6 preguntas breves y dirigidas.
@@ -46,7 +46,7 @@ Las preguntas deben ayudarte a concretar cuestiones como:
 No hagas preguntas genéricas de lluvia de ideas.
 Haz solo preguntas que ayuden a construir un brief pedagógico pequeño, claro y viable.
 
-Paso 3. Cierra las cuestiones abiertas
+## Paso 3. Cierra las cuestiones abiertas
 Cuando hayas completado la entrevista principal, comprueba si sigue habiendo cuestiones importantes sin resolver que afecten materialmente al diseño del artefacto. Por ejemplo:
 - cuál es exactamente el foco pedagógico
 - qué debe entender mejor el alumnado
@@ -64,7 +64,7 @@ Si la persona docente no responde, o te pide seguir sin responder, toma tú la o
 
 Pregunta también si la persona docente quiere añadir alguna preferencia final. Si la hay, intégrala en el documento final.
 
-Paso 4. Prepara el brief de diseño pedagógico para la etapa 2
+## Paso 4. Prepara el brief de diseño pedagógico para la etapa 2
 Ahora redacta un documento final limpio, listo para pegar en la etapa 2. No repitas toda la entrevista. Produce solo el brief de diseño pedagógico.
 
 Ese documento debe incluir, con subtítulos claros:

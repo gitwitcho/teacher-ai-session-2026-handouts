@@ -9,7 +9,7 @@ Primero comprueba si hace falta aclarar algo mínimo para poder construirlo bien
 
 Trabaja en cuatro pasos.
 
-Paso 1. Extrae la base oficial de diseño
+## Paso 1. Extrae la base oficial de diseño
 Indica brevemente:
 - qué contenido o dificultad va a abordar el artefacto
 - qué deberían comprender mejor los estudiantes tras usarlo
@@ -18,7 +18,7 @@ Indica brevemente:
 
 Haz esto de forma breve. No reescribas todo el brief.
 
-Paso 2. Haz una aclaración final muy breve
+## Paso 2. Haz una aclaración final muy breve
 Haz a la persona usuaria solo las preguntas estrictamente necesarias para poder generar el artefacto con sentido.
 
 Haz un máximo de 3 preguntas breves y dirigidas.
@@ -39,7 +39,7 @@ Si la persona usuaria responde, integra sus respuestas.
 
 Si la persona usuaria no responde, o te pide seguir sin responder, toma tú la opción más prudente, más clara y más viable. En ese caso, indica en una sola línea qué decisión has tomado y por qué.
 
-Paso 3. Genera el artefacto interactivo
+## Paso 3. Genera el artefacto interactivo
 Genera un único artefacto interactivo, no una lista de alternativas.
 
 El artefacto debe:
@@ -64,7 +64,7 @@ El artefacto puede adoptar, si encaja con el brief, formas como:
 Si el entorno en el que trabajas permite generar directamente el artefacto y mostrar una vista previa, hazlo.
 Si el entorno no lo permite, proporciona una versión lo más cercana posible a una implementación lista para usar.
 
-Paso 4. Añade una nota pedagógica breve
+## Paso 4. Añade una nota pedagógica breve
 Después del artefacto, ofrece una nota breve que incluya:
 - título del artefacto
 - qué ayuda a comprender
